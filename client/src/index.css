@@ -1,0 +1,9 @@
+p {
+  display: inline;
+}
+.list-group-item:hover {
+  background-color: #d3a7231c;
+}
+a{
+  text-decoration: none;
+}
